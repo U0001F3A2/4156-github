@@ -3,6 +3,7 @@
 #include "Light.hpp"
 #include <iostream>
 
+//ray tracing in practice!
 void read_objs (OBJ_T **list) {
 	//declare variables, set *list to null
     double x,y,z,r,R,G,B;
