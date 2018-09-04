@@ -1,6 +1,7 @@
 #include "Light.hpp"
 #include <math.h>
 
+//Let there be light
 //constructor without any variables
 Light::Light() {
 }
